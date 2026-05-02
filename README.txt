@@ -84,6 +84,6 @@ Future Improvements:
 Submission Includes:
 
 * Live Application URL: file:///D:/task-manager/frontend/index.html
-* GitHub Repository: https://github.com/chowdamdharanipriya/Fullstack_web_app
+* GitHub Repository: https://github.com/Harinipegnapuram/Fullstack_web_app
 
 Thank You
